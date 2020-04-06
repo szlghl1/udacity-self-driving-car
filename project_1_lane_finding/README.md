@@ -1,6 +1,8 @@
 # Finding Lane Lines on the Road
 A pipeline built with NumPy and cv2 to find lines in image / video on the road.
 
+The template and testing image and videos are from [the Udacity repo.](https://github.com/udacity/CarND-LaneLines-P1)
+
 ## Example input image
 ![example input](test_images/solidWhiteCurve.jpg "example input")
 
